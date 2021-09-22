@@ -61,6 +61,6 @@ Here you do not need to worry about replaces. Only copy all the Parent Scripts b
 
 If you have any doubts or dificulties, ask a question in [Take Blip Forum](https://forum.blip.ai/). 
 
-Ir you find any bugs, problems or improvements, you can contribute with this project making a [Pull Request](https://github.com/matheus-almeida-rosa/blip-chat-widget-channels/pulls) or opening an [issue](https://github.com/matheus-almeida-rosa/blip-chat-widget-channels/issues).
+If you find any bugs, problems or improvements, you can contribute with this project making a [Pull Request](https://github.com/matheus-almeida-rosa/blip-chat-widget-channels/pulls) or opening an [issue](https://github.com/matheus-almeida-rosa/blip-chat-widget-channels/issues).
 
 Have a good code!
