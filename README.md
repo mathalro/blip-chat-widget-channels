@@ -6,7 +6,7 @@ Using this code structure you can add a link for your WhatsApp Inteligent Contac
 
 ## Expected Results
 
-![Result]https://s3-sa-east-1.amazonaws.com/i.imgtake.takenet.com.br/iyexgr0n5l/iyexgr0n5l.gif
+![Result](https://s3-sa-east-1.amazonaws.com/i.imgtake.takenet.com.br/iyexgr0n5l/iyexgr0n5l.gif)
 
 ## How to use
 
