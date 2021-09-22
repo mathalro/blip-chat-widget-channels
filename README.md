@@ -8,6 +8,8 @@ Using this code structure you can add a link for your WhatsApp Inteligent Contac
 
 ![Result](https://s3-sa-east-1.amazonaws.com/i.imgtake.takenet.com.br/iyexgr0n5l/iyexgr0n5l.gif)
 
+You can also test it [here](https://cranky-wilson-c37fcb.netlify.app/).
+
 ## How to use
 
 1 - First of all, you need to have an Inteligent Contact configured for Blip Chat channel in [Take Blip Platform](https://portal.blip.ai/ "Create your inteligent contact here"). If you don't know how to do this, you can follow [this tutorial](https://help.blip.ai/hc/pt-br/articles/360059366993-Como-adicionar-um-bot-em-um-site-utilizando-o-Blip-Chat- "Como adicionar um bot em um site utilizando o Blip Chat?") to create your first chatbot and use it in your site. 
