@@ -8,7 +8,7 @@ Using this code structure you can add a link for your WhatsApp Inteligent Contac
 
 ![Result](https://s3-sa-east-1.amazonaws.com/i.imgtake.takenet.com.br/iyexgr0n5l/iyexgr0n5l.gif)
 
-You can also test it [here](https://cranky-wilson-c37fcb.netlify.app/){:target="_blank"}.
+You can also test it <a href="https://cranky-wilson-c37fcb.netlify.app/" target="_blank">here</a>.
 
 ## How to use
 
